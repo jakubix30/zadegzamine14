@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.baner{
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.formularz{
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 60px;
+}
+.lewy{
+    float: left;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    width: 25%;
+    height: 350px;
+}
+ul{
+    border: 4px dotted rgb(127, 255, 212);
+}
+.srodkowy{
+    float: left;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    width: 25%;
+    height: 350px;
+}
+.prawy{
+    float: left;
+    background-color: teal;
+    width: 50%;
+    height: 350px;
+}
+.stopka{
+    background-color: darkcyan;
+    color: white;
+    padding: 40px;
+}
